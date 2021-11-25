@@ -1,0 +1,60 @@
+body{
+    min-width: 320px;
+    max-width: 800px; 
+    margin: auto;
+    background-color:rgb(118, 97, 249) ;
+    
+
+}
+img{width: 100%;}
+
+
+button{
+    margin: auto;
+    background-color: chartreuse;
+    width: 150px;
+    list-style: none;
+    
+}
+div{
+float:left;
+padding: 50px 50px 50px 50px;
+}
+
+
+#monitor{
+    margin: auto;
+    width: 250px;
+    height: 200px;
+    
+    
+  
+    
+}
+#Headset{
+    margin: auto;
+    width: 250px;
+    height: 200px;
+    
+    
+    
+}
+#Mouse{
+    margin: auto;
+    width: 250px;
+    height: 200px;
+    
+    
+   
+}
+#Teclado{
+    margin: auto;
+    width: 250px;
+    height: 200px;
+    
+    
+    
+}
+#telefone{width: 2%;
+
+}
