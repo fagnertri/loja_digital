@@ -17,10 +17,20 @@ button{
     
 }
 div{
-float:left;
-padding: 50px 50px 50px 50px;
+    float:left;
+    padding: 50px 50px 50px 50px;
 }
+main{
+    text-align: center;
+}
+h5{
+    color: black;}
+p{
+    color: black;
+}
+h4{color: black;
 
+}
 
 #monitor{
     margin: auto;
