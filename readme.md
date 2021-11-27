@@ -1,7 +1,7 @@
-# Olá! Apresento a vocês o projeto do site Orelha N3rd
+# Olá! Apresento a vocês o projeto do site Loja vitual
 
 ### **Um breve resumo do projeto:** 
-O site loja virtual foi desenvolvido com o objetivo de prática didátia proposta pela Gama Academy durante o XP-40. Nele estão os resultados dos estudos iniciais das primeiras semanas semanas do XP, usando as linguagens aprendidas durante esse período. 
+O site Orelha N3rd foi desenvolvido visando uma prática didátia proposta pela Gama Academy durante o XP-40. Nele constam os resultados dos estudos iniciais das primeiras semanas semanas do XP, usando as linguagens aprendidas durante esse período. 
 
 ### **Linguagens utilizadas:**
 - HTML5
@@ -15,14 +15,18 @@ O site opera nas seguintes dimensões de telas:
 - 375px
 
 ### **Licença**:
-Os os textos, dados e imagens utilizadas no site são de direitos da marca loja virtual, e todos foram previamente autorizados para serem usados no projeto.
+Os os textos, dados e imagens utilizadas no site são de direitos da marca Orelha N3rd, e todos foram previamente autorizados para serem usados no projeto.
 
 ### **Status do projeto**:
  Atualmente, o projeto se encontra finalizado com as seguintes funcionalidades:
-- Menu de filtragem;
+- Menu de filtragem por tipo de produto;
 - HTML e CSS separados como na dito na orientação do projeto;
 - Site responsivo;
 - Todas as ancoragens levam  a alguma página;
 
 ### **Site desenvolvido por:**
-- Fagner Célio Pereira Barreto
+- Gabriel R. Rodrigues
+
+## **Para ver o projeto finalizado acesse o link abaixo:**
+
+### **- https://gabezrodz.github.io/projeto-orelha-nerd/**
